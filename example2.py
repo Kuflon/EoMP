@@ -1,4 +1,4 @@
-import plateinteract import Plate
+from plateinteract import Plate
 
 c=2; p=100; l=20; u=100; h=0.2; s=0.1; a=50;
 
