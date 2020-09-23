@@ -1,4 +1,4 @@
-import plateinteract import Plate
+from plateinteract import Plate
 
 a = 10; s = 0.003; h = 0.1;
 
